@@ -1,8 +1,8 @@
 # Clean your bib
 
-Many reference management softwares don't supoort regex when searching for systematic errors or unconsistancies in the bib-file. 
+Many reference management softwares don't suport regex when searching for systematic errors or unconsistancies in the bib-file. 
 
-This snipplet uses regex and Python to fix a reference list. In this example I wanted to put uppes case letters in the title field in curly brackets, to ensure that place names are compiled correctly. 
+This snipplet uses regex and Python to fix a reference list. In this example, we put uppes case letters in the title field in curly brackets, to ensure that place names are compiled correctly. 
 
 The script can easliy be modified for any needs. 
 
