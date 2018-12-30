@@ -6,7 +6,7 @@ The script can easliy be modified for your needs.
 
 Example: 
 
-  @Article{Argus2011,
+    @Article{Argus2011,
     author  = {Argus, Donald F. and Blewitt, Geoffrey and Peltier, W. Richard and Kreemer, Corn{\'{e}}},
     title   = {Rise of the Ellsworth mountains and parts of the East Antarctic coast observed with GPS},
     journal = {Geophysical Research Letters},
@@ -17,14 +17,14 @@ Example:
     issn    = {0094-8276},
     doi     = {10.1029/2011GL048025},
     file    = {Argus2011.pdf:Argus2011.pdf:PDF},
-  }
+    }
 
  Can result in: 
 *Rise of the ellsworth mountains and parts of the east antarctic coast observed with gps*
 
 
 
-  @Article{Argus2011,
+    @Article{Argus2011,
     author  = {Argus, Donald F. and Blewitt, Geoffrey and Peltier, W. Richard and Kreemer, Corn{\'{e}}},
     title   = {{R}ise of the {E}llsworth mountains and parts of the {E}ast {A}ntarctic coast observed with {GPS}},
     journal = {Geophysical Research Letters},
@@ -35,4 +35,4 @@ Example:
     issn    = {0094-8276},
     doi     = {10.1029/2011GL048025},
     file    = {Argus2011.pdf:Argus2011.pdf:PDF},
-  }
+    }
