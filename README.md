@@ -1,4 +1,4 @@
-# Fix your bib
+# Clean your bib
 
 This snipplet uses regex and Python to fix my references. In this example I wanted to put uppes case letters in the title in curle brackets, to ensure that place names are compiled correctly. 
 
@@ -36,3 +36,5 @@ Example:
     doi     = {10.1029/2011GL048025},
     file    = {Argus2011.pdf:Argus2011.pdf:PDF},
     }
+
+*Rise of the Ellsworth mountains and parts of the East Antarctic coast observed with GPS*
