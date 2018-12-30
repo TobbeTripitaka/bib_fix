@@ -1,8 +1,10 @@
 # Clean your bib
 
-This snipplet uses regex and Python to fix my references. In this example I wanted to put uppes case letters in the title in curle brackets, to ensure that place names are compiled correctly. 
+Many reference management softwares don't supoort regex when searching for systematic errors or unconsistancies in the bib-file. 
 
-The script can easliy be modified for your needs. 
+This snipplet uses regex and Python to fix a reference list. In this example I wanted to put uppes case letters in the title field in curly brackets, to ensure that place names are compiled correctly. 
+
+The script can easliy be modified for any needs. 
 
 Example: 
 
@@ -21,8 +23,6 @@ Example:
 
  Can result in: 
 *Rise of the ellsworth mountains and parts of the east antarctic coast observed with gps*
-
-
 
     @Article{Argus2011,
     author  = {Argus, Donald F. and Blewitt, Geoffrey and Peltier, W. Richard and Kreemer, Corn{\'{e}}},
